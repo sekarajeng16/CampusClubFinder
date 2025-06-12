@@ -17,7 +17,7 @@ Campus Club Finder adalah aplikasi berbasis web yang membantu mahasiswa menemuka
 
 ### 1. **Home Page** (`/`)
 
-![Hero Section](public\img\screenshoot\home\home.png)  
+![Hero Section](public/img/screenshoot/home/home.png)  
 ![Category Section](public\img\screenshoot\home\home-category.png)  
 ![About Section](public\img\screenshoot\home\home-about.png)
 
