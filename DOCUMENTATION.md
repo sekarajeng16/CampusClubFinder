@@ -17,9 +17,9 @@ Campus Club Finder adalah aplikasi berbasis web yang membantu mahasiswa menemuka
 
 ### 1. **Home Page** (`/`)
 
-![Hero Section](public\img\screenshoot\home\home.png)  
-![Category Section](public\img\screenshoot\home\home-category.png)  
-![About Section](public\img\screenshoot\home\home-about.png)
+![Hero Section](public/img/screenshoot/home/home.png)  
+![Category Section](public/img/screenshoot/home/home-category.png)  
+![About Section](public/img/screenshoot/home/home-about.png)
 
 - Hero section dengan gambar dan CTA "Explore Clubs"  
 - Section kategori klub: Sports, Arts & Culture, Technology  
@@ -29,7 +29,7 @@ Campus Club Finder adalah aplikasi berbasis web yang membantu mahasiswa menemuka
 
 ### 2. **Clubs List Page** (`/clubs`)
 
-![Clubs List Page](public\img\screenshoot\club-list\list-page.png)
+![Clubs List Page](public/img/screenshoot/club-list/list-page.png)
 
 - Daftar semua klub dengan sorting (A-Z / Z-A)  
 - Toggle tampilan Grid / List  
@@ -39,7 +39,7 @@ Campus Club Finder adalah aplikasi berbasis web yang membantu mahasiswa menemuka
 
 ### 3. **Club Detail Page** (`/clubs/:id`)
 
-![Club Detail Page](public\img\screenshoot\club-detail\detail.png)
+![Club Detail Page](public/img/screenshoot/club-detail/detail.png)
 
 - Deskripsi lengkap mengenai klub  
 - Terdapat upcoming event dari klub  
@@ -49,7 +49,7 @@ Campus Club Finder adalah aplikasi berbasis web yang membantu mahasiswa menemuka
 
 ### 4. **About Page** (`/about`)
 
-![About Page](public\img\screenshoot\About\about-page.png)
+![About Page](public/img/screenshoot/About/about-page.png)
 
 - Deskripsi singkat tentang aplikasi dan teknologi yang digunakan  
 
@@ -57,7 +57,7 @@ Campus Club Finder adalah aplikasi berbasis web yang membantu mahasiswa menemuka
 
 ### 5. **404 Page (Not Found)**
 
-![404 Page](public\img\screenshoot\error\error-page.png)
+![404 Page](public/img/screenshoot/error/error-page.png)
 
 - Pesan error yang ramah  
 - Tombol kembali ke halaman utama  
